@@ -14,5 +14,4 @@ nodejs 8.9.5
 
 ssh root@192.168.0.100 -p 22000
 
-password:  admin
 
