@@ -2,3 +2,17 @@
 
 项目名称：xxx交通部门项目
 
+## 环境
+
+mysql 5.7
+ruby 2.2.1
+rails 4.2.3
+nodejs 8.9.5
+
+
+## 服务器登录方式
+
+ssh root@192.168.0.100 -p 22000
+
+password:  admin
+
